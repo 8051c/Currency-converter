@@ -13,19 +13,6 @@
 └── .gitignore                            🔒 Git 무시 파일
 ```
 
-### 사용하지 않을 파일 (다운로드 불필요)
-
-```
-❌ create_currency_converter_ppt.js  (PPT 생성 스크립트, 이미 PPT 생성됨)
-❌ create_currency_converter_ppt.py  (구형 PPT 생성 스크립트)
-❌ currency_converter_*.py           (구버전 파일들)
-❌ CURRENCY_CONVERTER_GUIDE.md       (구형 가이드)
-❌ DEPLOYMENT_CHECKLIST.md           (구형 체크리스트)
-❌ README_CURRENCY_CONVERTER.md      (구형 설명서)
-```
-
----
-
 ## 2️⃣ GitHub 배포 단계별 가이드
 
 ### Step 1: GitHub 저장소 생성
